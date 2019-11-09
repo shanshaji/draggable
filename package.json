@@ -1,0 +1,31 @@
+{
+  "name": "draggable",
+  "version": "1.0.0",
+  "description": "A Simple HOC to make components draggable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanshaji/draggable.git"
+  },
+  "keywords": [
+    "Drag",
+    "React",
+    "Draggable",
+    "Component",
+    "React",
+    "Drag",
+    "HOC",
+    "Simple",
+    "Draggable",
+    "container"
+  ],
+  "author": "Shan Shaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanshaji/draggable/issues"
+  },
+  "homepage": "https://github.com/shanshaji/draggable#readme"
+}
