@@ -1,5 +1,5 @@
 {
-  "name": "simple-drag",
+  "name": "just-drag",
   "version": "1.0.0",
   "description": "A Simple HOC to make components draggable",
   "main": "index.js",
