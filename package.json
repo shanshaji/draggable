@@ -1,5 +1,5 @@
 {
-  "name": "draggable",
+  "name": "react-draggable",
   "version": "1.0.0",
   "description": "A Simple HOC to make components draggable",
   "main": "index.js",
@@ -12,15 +12,14 @@
   },
   "keywords": [
     "Drag",
-    "React",
+    "React Drag",
     "Draggable",
-    "Component",
-    "React",
+    "Drag Component",
+    "React Drag HOC",
     "Drag",
-    "HOC",
-    "Simple",
-    "Draggable",
-    "container"
+    "Drag HOC",
+    "Simple Draggable Container",
+    "Draggable"
   ],
   "author": "Shan Shaji",
   "license": "ISC",
