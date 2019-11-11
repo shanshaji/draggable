@@ -1,5 +1,5 @@
 {
-  "name": "react-draggable",
+  "name": "simple-drag",
   "version": "1.0.0",
   "description": "A Simple HOC to make components draggable",
   "main": "index.js",
