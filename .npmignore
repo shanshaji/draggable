@@ -1,0 +1,4 @@
+lib/
+.npmignore
+.babelrc
+rollup.config.js

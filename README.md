@@ -1,5 +1,6 @@
-import Draggable from "./draggable.jsx"
-
+import Draggable from "just-drag"
+```
 <Draggable>
-    <Component>
+    <Component> 
 </Draggable>
+  ```
